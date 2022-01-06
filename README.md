@@ -9,3 +9,5 @@ I'm kayalust but you can call me Kaya!
 - 👀 I'm currently an Administrator at [Crackpixel](https://crackpixel.net), a Cracked Hypixel server that has been up since 2020!
 
 *I mostly do private work so don't expect to see much public commits from me*
+
+(https://github-readme-stats.vercel.app/api?username=kayalust&count_private=true&show_icons=true&title_color=33B0FF&icon_color=33FFFC&text_color=daf7dc&bg_color=151515&hide=["stars"])
