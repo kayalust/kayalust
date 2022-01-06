@@ -10,4 +10,4 @@ I'm kayalust but you can call me Kaya!
 
 *I mostly do private work so don't expect to see much public commits from me*
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kayalust&count_private=true&theme=radical)
