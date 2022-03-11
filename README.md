@@ -14,5 +14,5 @@ I'm kayalust but you can call me Kaya!
 <details>
    <summary>Click to show</summary>
    <img align="Left" alt="Kaya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kayalust&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" />
-   <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayalust&layout=compact&hide_border=true&theme=dark"/>
+   <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayalust&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
 </details>
