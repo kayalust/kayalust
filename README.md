@@ -9,8 +9,6 @@ I'm kayalust but you can call me Kaya!
 
 *I mostly do private work so don't expect to see much public commits from me*
 
-![](https://komarev.com/ghpvc/?username=kayalust&color=orange)
-
 ### My GitHub Statistics
 <details>
    <summary>Click to show</summary>
