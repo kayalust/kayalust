@@ -4,7 +4,7 @@ I'm kayalust but you can call me Kaya!
 
 - 🌱 I’m currently learning C# and JavaScript!
 - 🔭 I’m an Owner at [Refine Development](https://github.com/RefineDevelopment)
-- 👀 I'm currently an Owner in [Bedwars Spacel](https://dsc.gg/bwspace), a new upcoming Bedwars Practice server with a lot of cool features!
+- 👀 I'm currently an Owner in [Bedwars Space](https://dsc.gg/bwspace), a new upcoming Bedwars Practice server with a lot of cool features!
 - 📫 You can contact me on Discord by adding kaya#7800 either contacting me on [Twitter](https://twitter.com/kayalust)!
 
 *I mostly do private work so don't expect to see much public commits from me*
