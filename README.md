@@ -2,13 +2,14 @@
 
 I'm kayalust but you can call me Kaya!
 
-- 🌱 I’m currently learning PHP (For pocketmine) and Kotlin!
+- 🌱 I’m currently learning C# and JavaScript!
 - 🔭 I’m an Owner at [Refine Development](https://github.com/RefineDevelopment)
-- ⚡ I'm currently maintaining [Blaze](https://polymart.org/resource/blaze-bedwars-practice.1392), a Bedwars Practice plugin for Spigot 1.8.8!
-- 👀 I'm currently an Administrator at [Crackpixel](https://crackpixel.net), a Cracked Hypixel server that has been up since 2020!
+- 👀 I'm currently an Owner in [Bedwars Spacel](https://dsc.gg/bwspace), a new upcoming Bedwars Practice server with a lot of cool features!
 - 📫 You can contact me on Discord by adding kaya#7800 either contacting me on [Twitter](https://twitter.com/kayalust)!
 
 *I mostly do private work so don't expect to see much public commits from me*
+
+![](https://komarev.com/ghpvc/?username=kayalust&color=orange)
 
 ### My GitHub Statistics
 <details>
