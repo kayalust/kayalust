@@ -4,7 +4,6 @@ I'm kayalust but you can call me Kaya!
 
 - 🌱 I’m currently learning C# and JavaScript!
 - 🔭 I’m an Owner at [Refine Development](https://github.com/RefineDevelopment)
-- ⚔ I'm also a developer on [AcentraMC](https://acentramc.com), a network featuring the most favorited gamemodes in Minecraft!
 - 📫 You can contact me on Discord by adding kaya#7800 either contacting me on [Twitter](https://twitter.com/kayalust)!
 
 *I mostly do private work so don't expect to see much public commits from me*
